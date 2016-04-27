@@ -55,6 +55,10 @@ a:hover {
   color: white
 }
 
+.nav .selected {
+  color: white;
+}
+
 header {
   text-align: center;
   background: url('images/back-header.jpg') no-repeat top center ;
