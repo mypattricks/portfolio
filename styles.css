@@ -40,6 +40,10 @@ a:hover {
   padding: 0;
 }
 
+.nav .selected {
+  color: white;
+}
+
 .nav .name {
     display: block;
     margin-right: auto;
@@ -53,10 +57,6 @@ a:hover {
 }
 .nav a:hover {
   color: white
-}
-
-.nav .selected {
-  color: white;
 }
 
 header {
