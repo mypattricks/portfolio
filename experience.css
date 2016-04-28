@@ -49,7 +49,7 @@ a:hover {
   padding: 5px 10px 10px 10px;
 }
 
-.nav li.selected {
+.nav li .selected {
   color:white;
 }
 
