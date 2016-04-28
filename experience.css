@@ -1,3 +1,7 @@
 .main-nav .nav .selected {
   color: white;
 }
+
+header {
+  background: none;
+}
