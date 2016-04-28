@@ -13,7 +13,7 @@ body {
 }
 /* Link Styles */
 
-a {
+li a {
   text-decoration: none;
   color: #999;
 }
